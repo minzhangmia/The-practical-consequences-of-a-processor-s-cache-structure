@@ -1,0 +1,2 @@
+# The-practical-consequences-of-a-processor-s-cache-structure
+write a C program to compute a vector triad, for vectors of doubles, of lengths 10 to 10 . Print the data to a file, and create a plot that shows the change in performance as the vector length increases; this should be a plot of performance in GFLOPS (Y axis) vs vector length (X axis), and you will want to use a log scale for the vector length.
